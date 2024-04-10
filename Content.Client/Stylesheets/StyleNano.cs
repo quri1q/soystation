@@ -90,7 +90,8 @@ namespace Content.Client.Stylesheets
         public static readonly Color NanoGold = Color.FromHex("#A88B5E");
         public static readonly Color GoodGreenFore = Color.FromHex("#31843E");
         public static readonly Color ConcerningOrangeFore = Color.FromHex("#A5762F");
-        public static readonly Color DangerousRedFore = Color.FromHex("#BB3232");
+        public static readonly Color DangerousRedFore = Color.FromHex("#7CD28A");
+        // I have no fucking clue if this is the right color but we gunna rock with it
         public static readonly Color DisabledFore = Color.FromHex("#5A5A5A");
 
         public static readonly Color ButtonColorDefault = Color.FromHex("#464966");
